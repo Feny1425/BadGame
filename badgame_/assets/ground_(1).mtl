@@ -1,0 +1,16 @@
+newmtl start_ground
+Kd 0.4433962 0.240113 0
+d 1
+
+newmtl grass
+Kd 0.2532223 0.8301887 0
+d 1
+
+newmtl metal
+Kd 0.6226415 0.6226415 0.6226415
+d 1
+
+newmtl defult
+Kd 1 1 1
+d 1
+

@@ -1,0 +1,277 @@
+fileFormatVersion: 2
+guid: a66ef3456807ad7489faa85ab237360a
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      74: 2279829093579850648
+    second: Cube.002|Action
+  - first:
+      74: -5488762566660925982
+    second: Cube.002|Action.001
+  - first:
+      74: -4862924391851324744
+    second: Cube.002|Action.002
+  - first:
+      74: -8461763231886877521
+    second: Cube.002|blink
+  - first:
+      74: 7000875151804566335
+    second: Cube.002|blink.001
+  - first:
+      74: -8505371677730133986
+    second: Cube.002|blink.003
+  - first:
+      74: 4171535326153280108
+    second: Cube.002|blink.004
+  - first:
+      74: 7950985964555397024
+    second: Cube.002|blink.006
+  - first:
+      74: -7080428318704272447
+    second: Cube.002|blink.008
+  - first:
+      74: -7944832092688391277
+    second: Cube.002|Cube.003Action
+  - first:
+      74: 1320502201693652319
+    second: Cube.002|Green
+  - first:
+      74: -1967411686954889424
+    second: Cube.002|green
+  - first:
+      74: -5867321073950489165
+    second: Cube.002|open
+  - first:
+      74: -978245098401024786
+    second: Cube.002|opend
+  - first:
+      74: -2291495587606480772
+    second: Cube.002|red and Green
+  - first:
+      74: 8802858209475278622
+    second: Cube.003|Action
+  - first:
+      74: -7214307691133159684
+    second: Cube.003|Action.001
+  - first:
+      74: -2352580460700281747
+    second: Cube.003|Action.002
+  - first:
+      74: -285384251324286943
+    second: Cube.003|blink
+  - first:
+      74: -3432254021278821239
+    second: Cube.003|blink.001
+  - first:
+      74: -7422035240207956296
+    second: Cube.003|blink.003
+  - first:
+      74: -2695064870893905813
+    second: Cube.003|blink.004
+  - first:
+      74: -614478174148906498
+    second: Cube.003|blink.006
+  - first:
+      74: -6030828313227525673
+    second: Cube.003|blink.008
+  - first:
+      74: -8906869970063597199
+    second: Cube.003|Cube.003Action
+  - first:
+      74: -7227734389995779073
+    second: Cube.003|Green
+  - first:
+      74: -4452323777478266628
+    second: Cube.003|green
+  - first:
+      74: -6188567434610973680
+    second: open
+  - first:
+      74: -5359113833161774712
+    second: Cube.003|opend
+  - first:
+      74: -1648723004954657446
+    second: red and Green
+  - first:
+      74: -6695521871145847396
+    second: opend
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: open
+      takeName: Cube.003|open
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: opend
+      takeName: Cube.003|opend
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: red and Green
+      takeName: Cube.003|red and Green
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

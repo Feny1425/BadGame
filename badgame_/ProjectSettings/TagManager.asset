@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - floor
+  - button
+  - next
+  - level1
+  - level2
+  - level3
+  - level4
+  - fire
+  - bullet
+  - hammer
+  - key
+  - particle
+  - action_button
+  - action_name
+  - options
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - lift
+  - Water
+  - UI
+  - not accept light
+  - 
+  - Ground
+  - player
+  - elevator
+  - flashLight
+  - bullet
+  - Post Procressing
+  - fuse
+  - TT
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: 1
+    uniqueID: 424988459
+    locked: 0
+  - name: 2
+    uniqueID: 3051766285
+    locked: 0
+  - name: flash
+    uniqueID: 1015687125
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
